@@ -7,7 +7,7 @@ The application should run from the command line, accept the GitHub username as 
 - Provide the GitHub username as an argument when running the CLI
 - Fetch the recent activity of the specified GitHub user using the GitHub API. You can use the following endpoint to fetch the user’s activity:
 - Display the fetched activity in the terminal.
-- You can learn more <u>["about the GitHub API here."]("https://docs.github.com/en/rest/activity/events?apiVersion=2022-11-28")</u>
+- You can learn more <u> [about the GitHub API here.]("https://docs.github.com/en/rest/activity/events?apiVersion=2022-11-28") </u>
 - Handle errors gracefully, such as invalid usernames or API failures.
 - Use a programming language of your choice to build this project.
 - Do not use any external libraries or frameworks to fetch the GitHub activity.
